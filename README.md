@@ -7,4 +7,4 @@ The project is try to get the information about heart beating ratings from apple
 
 
 ## TODO
-- [] add stats report in weekly 
+- [ ] add stats report in weekly 
