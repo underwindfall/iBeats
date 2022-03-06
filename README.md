@@ -21,5 +21,4 @@ The project is try to get the information about heart beating ratings from apple
 
 <!--END_SECTION:my_heart_rate-->
 
-## TODO
-- [ ] add stats report in weekly 
+
