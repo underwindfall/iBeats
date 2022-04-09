@@ -12,8 +12,8 @@ on:
 
 env:
   # change env here
-  GITHUB_NAME: underwindfall
-  GITHUB_EMAIL: 14819756+underwindfall@users.noreply.github.com
+  GITHUB_NAME: README wall-e
+  GITHUB_EMAIL: actions@users.noreply.github.com
 
 jobs:
   sync:
